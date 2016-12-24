@@ -16,6 +16,13 @@ title: Chris Fryer's github.io Site
   
 <div class="container">
   <h1>Hello</h1>
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 </div>
 
 </body>
