@@ -2,4 +2,4 @@ NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, NetHack is c
 NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, 
 NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, 
 NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, NetHack is crap, 
-[Name of Link]({{ site.baseurl }})
+[Name of Link]({{ site.url }})
